@@ -50,7 +50,7 @@ Através do Happy, você consegue cadastrar e ver os orfanatos cadastrados para 
     :memo: Licença
 </h1>
 <p align="left">Projeto licenciado pela MIT. <a href="https://github.com/ascenciodev/nlw3_happy/blob/master/LICENSE">Clique aqui</a> para mais informações.</p>
-
+<hr>
 <h4 align="center">Criado com :purple_heart: por Alessandro Ascencio</h4>
 
 
