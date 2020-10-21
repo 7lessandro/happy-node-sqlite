@@ -1,6 +1,5 @@
-<p align="center"> <img src="https://github.com/ascenciodev/nlw3_happy/blob/master/info/logo.png">
-<br>
-VISITE ORFANATOS E MUDE O DIA DE MUITAS CRIANÇAS :purple_heart: </p>
+<h4 align="center"> <img src="https://github.com/ascenciodev/nlw3_happy/blob/master/info/logo.png"><br>
+VISITE ORFANATOS E MUDE O DIA DE MUITAS CRIANÇAS :purple_heart: </h4>
 
 <img src="https://github.com/ascenciodev/nlw3_happy/blob/master/info/happyproject.png">
 
