@@ -1,3 +1,5 @@
+<img src="https://github.com/ascenciodev/nlw3_happy/blob/master/info/happyproject.png">
+
 <h1 align="center><img src="https://raw.githubusercontent.com/ascenciodev/nlw3_happy/master/public/images/logo-icon.png"></h1>
         
 <h1 align="center">
