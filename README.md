@@ -1,4 +1,4 @@
-        <img src="https://github.com/ascenciodev/nlw3_happy/blob/master/public/images/logo-icon.png">
+<h1 align="center><img src="https://github.com/ascenciodev/nlw3_happy/blob/master/public/images/logo-icon.png"></h1>
         
 <h1 align="center">
     Happy
