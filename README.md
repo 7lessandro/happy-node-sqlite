@@ -46,6 +46,12 @@ Através do Happy, você consegue cadastrar e ver os orfanatos cadastrados para 
         4 • Acesse através da URL: <strong>http://127.0.0.1:5500/</strong>
 </p>
 
+<h1 align="left">
+    :memo: Licença
+</h1>
+<p align="left">Projeto licenciado pela MIT. <a href="https://github.com/ascenciodev/nlw3_happy/blob/master/LICENSE">Clique aqui</a> para mais informações.</p>
+
+<h4 align="center">Criado com :purple_heart: por Alessandro Ascencio</h4>
 
 
 
