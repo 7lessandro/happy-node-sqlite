@@ -39,11 +39,11 @@ Through Happy, you can register and see registered orphanages to schedule your v
 <p align="left">1 - Clone this repository.
 <br>
     </></>
-    2 - Enter the terminal and install the dependencies using the ``npm install`` command.
+    2 - Enter the terminal and install the dependencies using the <strong>npm install</strong> command.
         <br>
-        3 - Start the application with the ``npm start`` command.
+        3 - Start the application with the <strong>npm start</strong> command.
         <br>
-        4 - Enter the url ``http://127.0.0.1:5500/``
+        4 - Enter the url <strong>http://127.0.0.1:5500/</strong>
 </p>
 
 <h1 align="left">
