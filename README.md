@@ -34,11 +34,12 @@ Through Happy, you can register and see registered orphanages to schedule your v
 - SQLite</p>
 
 <h1 align="left">
-    :rotating_light: Instalação
+    :rotating_light: Installation
 </h1>
 <p align="left">1 - Clone this repository.
 <br>
-        2 - Enter the terminal and install the dependencies using the ``npm install`` command.
+    </></>
+    2 - Enter the terminal and install the dependencies using the ``npm install`` command.
         <br>
         3 - Start the application with the ``npm start`` command.
         <br>
