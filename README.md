@@ -1,21 +1,21 @@
 <h4 align="center"> <img src="https://github.com/ascenciodev/nlw3_happy/blob/master/info/logo.png"><br>
-VISITE ORFANATOS E MUDE O DIA DE MUITAS CRIANÇAS :purple_heart: </h4>
+VISIT ORPHANATES AND CHANGE MANY CHILDREN'S DAY :purple_heart: </h4>
 
 <img src="https://github.com/ascenciodev/nlw3_happy/blob/master/info/happyproject.png">
 
 <h1 align="left">
-    :bulb: O que é o "Happy"?
+    :bulb: What is "Happy"?
 </h1>
-<p align="left">Happy é uma plataforma responsável em conectar as pessoas com as crianças carentes.
-Através do Happy, você consegue cadastrar e ver os orfanatos cadastrados para agendar sua visita e fazer o dia de alguém mais feliz.</p>
+<p align="left">Happy is a responsible platform for connecting with underprivileged children.
+Through Happy, you can register and see registered orphanages to schedule your visit and make someone's day happier.</p>
 
 <h1 align="left">
-    :rocket: Projeto
+    :rocket: The Project
 </h1>
-<p align="left">O projeto foi feito durante a semana da Next Level Week (<a href="https://rocketseat.com.br/">Rocketseat</a>). Que possui o intuito de alavancar os conhecimentos através de uma aplicação <i>full stack</i>.</p>
+<p align="left">The project was made during the week of Next Level Week (<a href="https://rocketseat.com.br/">Rocketseat</a>), which aims to raise the level of knowledge through a <i>full stack</i> application.</p>
 
 <h1 align="left">
-    :wrench: Ferramentas e Tecnologias Utilizadas
+    :wrench: Technologies 
 </h1>
 <p align="left">- HTML5
         <br>
@@ -36,21 +36,21 @@ Através do Happy, você consegue cadastrar e ver os orfanatos cadastrados para 
 <h1 align="left">
     :rotating_light: Instalação
 </h1>
-<p align="left">1 • Entre no repositório padrão e copie o projeto com o comando:  <strong>git clone https://github.com/ascenciodev/nlw3_happy.git</strong>
+<p align="left">1 - Clone this repository.
 <br>
-        2 • Entre no terminal e instale o NPM: <strong>npm install</strong>
+        2 - Enter the terminal and install the dependencies using the ``npm install`` command.
         <br>
-        3 • Após concluir à instalação: <strong>npm start</strong>
+        3 - Start the application with the ``npm start`` command.
         <br>
-        4 • Acesse através da URL: <strong>http://127.0.0.1:5500/</strong>
+        4 - Enter the url ``http://127.0.0.1:5500/``
 </p>
 
 <h1 align="left">
-    :memo: Licença
+    :memo: License
 </h1>
-<p align="left">Projeto licenciado pela MIT. <a href="https://github.com/ascenciodev/nlw3_happy/blob/master/LICENSE">Clique aqui</a> para mais informações.</p>
+<p align="left">Project licensed by MIT. <a href="https://github.com/ascenciodev/nlw3_happy/blob/master/LICENSE">Click here</a> for more information.</p>
 <hr>
-<h4 align="center">Criado com :purple_heart: por Alessandro Ascencio</h4>
+<h4 align="center">Created with :purple_heart: by Alessandro Ascencio</h4>
 
 
 
