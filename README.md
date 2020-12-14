@@ -12,7 +12,7 @@ Through Happy, you can register and see registered orphanages to schedule your v
 <h1 align="left">
     :rocket: The Project
 </h1>
-<p align="left">The project was made during the week of Next Level Week (<a href="https://rocketseat.com.br/">Rocketseat</a>), which aims to raise the level of knowledge through a <i>full stack</i> application.</p>
+<p align="left">The project was made during the week of Next Level Week #3 (<a href="https://rocketseat.com.br/">Rocketseat</a>), which aims to raise the level of knowledge through a <i>full stack</i> application.</p>
 
 <h1 align="left">
     :wrench: Technologies 
@@ -38,7 +38,6 @@ Through Happy, you can register and see registered orphanages to schedule your v
 </h1>
 <p align="left">1 - Clone this repository.
 <br>
-    </></>
     2 - Enter the terminal and install the dependencies using the <strong>npm install</strong> command.
         <br>
         3 - Start the application with the <strong>npm start</strong> command.
